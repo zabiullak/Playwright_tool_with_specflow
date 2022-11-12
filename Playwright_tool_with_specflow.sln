@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playwright_tool_with_specflow", "Playwright_tool_with_specflow\Playwright_tool_with_specflow.csproj", "{D4C4F109-EBB9-49A7-8725-1AE681FB8ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C4F109-EBB9-49A7-8725-1AE681FB8ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C4F109-EBB9-49A7-8725-1AE681FB8ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C4F109-EBB9-49A7-8725-1AE681FB8ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C4F109-EBB9-49A7-8725-1AE681FB8ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77AAA40-C6A1-48E0-9BC9-3A0A5CEEAC5F}
+	EndGlobalSection
+EndGlobal
